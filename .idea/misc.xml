@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6.1 (/usr/bin/python3.6)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.12 virtualenv at ~/Documents/Slowka/newenv" project-jdk-type="Python SDK" />
+>>>>>>> 1bbb2bd76869bc6ca2dd0958df4c16bd413d6f78
 </project>

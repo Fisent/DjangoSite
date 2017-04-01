@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/mysite.iml" filepath="$PROJECT_DIR$/.idea/mysite.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Slowka.iml" filepath="$PROJECT_DIR$/.idea/Slowka.iml" />
+>>>>>>> 1bbb2bd76869bc6ca2dd0958df4c16bd413d6f78
     </modules>
   </component>
 </project>
